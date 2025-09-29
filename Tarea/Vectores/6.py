@@ -1,4 +1,4 @@
-numeros = [0,0,0,0,0,0,0]
+numeros = [0]*7
 
 for i in range(7):
     numeros[i] = int(input("Ingrese un número entero: "))
